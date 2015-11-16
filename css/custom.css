@@ -1,0 +1,16 @@
+.float--left {
+    display: inline;
+    float: left;
+}
+
+#small_nav{
+	border-style: none;
+    border-color: transparent;
+    background-color: #F8F8F8;
+    position: relative;
+}
+
+.phone-number .fa, .email .fa{
+	color: #93CA3A;
+	padding-right: 15px;
+}
